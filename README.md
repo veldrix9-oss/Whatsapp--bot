@@ -36,3 +36,6 @@ Scan the QR code with WhatsApp to link your bot.
 
 ---
 Made with ❤️ by Veldrix
+<p align="center">
+  <img src="images/sky.png" width="600">
+</p>
